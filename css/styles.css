@@ -1,0 +1,73 @@
+body{
+background-color: #FAE8E0;
+}
+
+body {
+margin:30px 0;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+margin-top: 30px;
+font-size: 90px;
+font-family: 'Arizonia', cursive;
+}
+
+h2{
+font-size: 2.0rem}
+/* em = M 글자의 length, 1em = 16px */
+
+div{
+background-color: ;
+}
+
+.pro{
+text-decoration: underline;}
+
+.upper-cloud{
+width: 744px;
+height: 195px;
+position: relative;
+right: 200px;
+}
+
+.lower-cloud{
+width: 744px;
+height: 195px;
+position: relative;
+left: 200px;
+}
+
+.forest {
+position: relative;
+object-fit: cover;}  /*왜 forest 사이즈 화면에 꽉차게 안되지*/
+
+/*
+.top-container{
+width: 200px;
+height: 200px;
+border: solid 10px;
+position: relative;
+display: inline-block;
+bottom: 100px;
+}
+
+.middle-container{
+background-color: red;
+width: 200px;
+height: 200px;
+position: relative;
+display: inline-block;
+
+}
+
+.bottom-container{
+background-color: blue;
+width: 200px;
+height: 200px;
+position: relative;
+display: inline-block;
+
+}
+*/
